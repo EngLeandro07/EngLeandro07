@@ -43,14 +43,7 @@ Comecei desenvolvendo aplicativos mobile e software em Java, e hoje atuo com **v
 
 ---
 
-### 📊 Estatísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EngLeandro07&show_icons=true&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EngLeandro07&layout=compact&theme=dark&hide_border=true)
-
----
-
 ### 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/[seu-perfil])
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:leandroedueng@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:seu@email.com)
