@@ -80,6 +80,24 @@ Comecei desenvolvendo aplicativos mobile e software em Java, e hoje atuo com **v
 
 ---
 
+## 🐍 Atividade
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EngLeandro07/EngLeandro07/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EngLeandro07/EngLeandro07/output/github-snake.svg" />
+  <img alt="Cobrinha comendo os commits" src="https://raw.githubusercontent.com/EngLeandro07/EngLeandro07/output/github-snake.svg" />
+</picture>
+
+## 📊 Estatísticas
+
+<div align="center">
+
+![Métricas do GitHub](https://raw.githubusercontent.com/EngLeandro07/EngLeandro07/main/metrics.svg)
+
+</div>
+
+---
+
 ## 📫 Contato
 
 <div align="center">
